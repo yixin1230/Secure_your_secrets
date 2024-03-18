@@ -1,1 +1,2 @@
 encrypt_file filter=git-crypt diff=git-crypt
+folder/something filter=git-crypt diff=git-crypt
