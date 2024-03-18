@@ -1,0 +1,1 @@
+encrypt_file filter=git-crypt diff=git-crypt
