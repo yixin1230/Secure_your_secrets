@@ -1,3 +1,4 @@
 encrypt_file filter=git-crypt diff=git-crypt
 folder/something filter=git-crypt diff=git-crypt
 branch_file filter=git-crypt diff=git-crypt
+new filter=git-crypt diff=git-crypt
