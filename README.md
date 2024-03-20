@@ -2,7 +2,10 @@
 
 - This is a repo for testing git-crypt. I will also make some usage notes here.
 ### Install git-crypt
+```brew install git-crypt```
+
 ### Install gpg (if you need to collaborate with others)
+```brew install gpg```
 
 ### some useful command line
 - list your gpg key id and other infomation : <br> ```gpg --list-keys```
