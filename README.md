@@ -1,5 +1,4 @@
-# secure file or your secret in repo
-
+# How to secure your secrets in repo
 - This is a repo for testing git-crypt and some other way to secure files in repo. I will also make some usage notes here.
 
 ## Use git-crypt
