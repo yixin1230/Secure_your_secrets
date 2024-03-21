@@ -21,7 +21,13 @@
 * [Using git-crypt in Azure Devops](https://stackoverflow.com/questions/66590438/using-git-crypt-in-azure-devops)
 
 ## Use secure file in Azure Devops
-- It's use secure file
+Secure files give you a way to store files that you can share across pipelines. Use the secure files library to store files such as:
+<br>
+- signing certificates
+- Apple Provisioning Profiles
+- Android Keystore files
+- SSH keys
+  
 ## Resources - secure file
 * [Use secure files](https://learn.microsoft.com/en-us/azure/devops/pipelines/library/secure-files?view=azure-devops)
   
